@@ -686,6 +686,11 @@
     "utf-8-validate" "6.0.3"
     "ws" "8.14.2"
 
+"@vercel/speed-insights@^1.0.10":
+  "integrity" "sha512-4uzdKB0RW6Ff2FkzshzjZ+RlJfLPxgm/00i0XXgxfMPhwnnsk92YgtqsxT9OcPLdJUyVU1DqFlSWWjIQMPkh0g=="
+  "resolved" "https://registry.npmjs.org/@vercel/speed-insights/-/speed-insights-1.0.10.tgz"
+  "version" "1.0.10"
+
 "@vercel/style-guide@^5.0.1":
   "integrity" "sha512-3J/5xpwJ2Wk+cKB3EGY2KCdVQycaThLKhjBmgXPfIKb+E74lPpXVIDfaQE0D2JoAyIzGsqdH7Lbmr+DojwofxQ=="
   "resolved" "https://registry.npmjs.org/@vercel/style-guide/-/style-guide-5.0.1.tgz"
@@ -2680,7 +2685,7 @@
   "resolved" "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   "version" "1.4.0"
 
-"next@^14.0.2":
+"next@^14.0.2", "next@>= 13":
   "integrity" "sha512-jsAU2CkYS40GaQYOiLl9m93RTv2DA/tTJ0NRlmZIBIL87YwQ/xR8k796z7IqgM3jydI8G25dXvyYMC9VDIevIg=="
   "resolved" "https://registry.npmjs.org/next/-/next-14.0.2.tgz"
   "version" "14.0.2"
@@ -3150,7 +3155,7 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
-"react@^18.2.0", "react@>= 16", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=16.8.0", "react@18.2.0":
+"react@^18 || ^19", "react@^18.2.0", "react@>= 16", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=16.8.0", "react@18.2.0":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"
